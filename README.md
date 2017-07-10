@@ -1,2 +1,5 @@
 # Test-Github
-just trying things out
+==============
+
+Just Trying things out
+This is a repository just trying to learn how to use GitHub on gitBash
